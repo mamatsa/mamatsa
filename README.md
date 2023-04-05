@@ -92,12 +92,3 @@ My programming career has had its ups and downs. In past, I have built several p
 <br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=mamatsa&&style=flat-square)  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
