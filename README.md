@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm Otar Mamatsashvili, a passionate front-end developer with a knack for problem-solving. I thrive on tackling complex challenges and crafting elegant solutions. Welcome to my GitHub profile!
+I'm a passionate full-stack developer with a knack for problem-solving. I thrive on tackling complex challenges and crafting elegant solutions. Welcome to my GitHub profile!
 
 #### Technologies and Tools
 
