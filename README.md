@@ -4,9 +4,8 @@ I'm a passionate full-stack developer with a knack for problem-solving. I thrive
 
 #### Technologies and Tools
 
-- Programming Languages: TypeScript, JavaScript, Python, HTML, CSS
-- Front-End Frameworks/Libraries: React, NextJS, Tailwind CSS
-- Back-End Technologies: Node.js, Express, MongoDB, PostgreSQL
-- Devops: Docker, Linux, Terraform, Ansible
-- Development Tools: Git, Vite, VS Code
-- Design Tools: Figma
+- **Programming Languages:** TypeScript, JavaScript, Python, HTML, CSS
+- **Front-End:** React, NextJS, Tailwind CSS
+- **Back-End:** Node.js, Express, MongoDB, PostgreSQL
+- **Devops:** Docker, Linux, Terraform, Ansible
+- **Tools:** Git, Cursor, Figma
